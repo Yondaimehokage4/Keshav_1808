@@ -4,3 +4,5 @@ specific capacity, and each shipment of cargo comes in varying sizes and colors.
 managing this cargo is essential for smooth space operations and avoiding costly delays. A
 new and upcoming company called The Galactic Cargo Management System (GCMS) needs
 your help to tackle this challenge.
+
+Full description of assignment in the link: https://drive.google.com/file/d/1w8dnx_FY3SAOr5RwZUmSCgMR0xdetR2X/view
