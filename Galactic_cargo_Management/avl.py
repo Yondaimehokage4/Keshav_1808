@@ -97,7 +97,7 @@ class AVLTree:
         if balance < -1 and node.right.key[0]- node.key[0] < 0:
             node.right = self._rotate_right(node.right)
             return self._rotate_left(node)
-
+        # if key[0] matches do it in the same way for key[1] .
         return node
 
     def _insert(self, node, key, value):
