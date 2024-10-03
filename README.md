@@ -1,1 +1,1 @@
-This repository has been created for projrcts in VHDL.
+This repository contains resently performed projects.
