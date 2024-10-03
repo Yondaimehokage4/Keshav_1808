@@ -1,0 +1,11 @@
+Treasure1 = Treasure(1000,100,1)
+Treasure2 = Treasure(1001,200,30)
+Treasure3 = Treasure(1002,10,40)
+Treasure4 = Treasure(1003,500,60)
+Treasure5 = Treasure(1004,120,70)
+
+black_pearl.add_treasure(Treasure1)
+black_pearl.add_treasure(Treasure2)
+black_pearl.add_treasure(Treasure3)
+black_pearl.add_treasure(Treasure4)
+black_pearl.add_treasure(Treasure5)
