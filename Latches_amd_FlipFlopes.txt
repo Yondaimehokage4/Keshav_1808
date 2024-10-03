@@ -1,2 +1,0 @@
-Experiment : 1)Physical grounds
-            2) In verilog
