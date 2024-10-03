@@ -1,0 +1,3 @@
+Pac-Man is trapped in a haunted maze and needs your help to move! The maze is filled with
+ghosts, and Pac-Man needs to find his way to his favourite destination while avoiding them.
+Your task is to create a navigation system for Pac-Man using only stacks.
